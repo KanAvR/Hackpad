@@ -34,11 +34,12 @@ PCB
 
 
 ## Firmware Overview
-This hackpad uses KMK firmware. 
-
-- the rotary encoder changes volume. 
-- The 9 keys will bound to various hyprland shortcuts as and when required.
-- The OLED will be used for showing volume status.
+This hackpad uses KMK firmware.
+ 
+- The rotary encoder changes volume. Turning it clockwise increases the volume by 5% and turning it counter-clockwise decreases it by 5%. Pressing it toggles mute.
+- The 9 keys will be bound to various hyprland shortcuts as and when required. Right now key 1-6 switch to workspaces 1-6, key 7 kills the focused window, key 8 toggles fullscreen, and key 9 takes a screenshot.
+- The OLED will be used for showing volume status. It shows a bar that fills up as the volume increases and shows MUTE when muted.
+- The SK6812MINI LED glows blue normally and turns red when muted.
 
 ## BOM:
 
