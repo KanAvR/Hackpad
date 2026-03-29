@@ -28,7 +28,7 @@ Schematic
 
 PCB
 
-<img src=assets/pcb.png alt="Schematic" width="300"/>
+<img src=assets/pcb.png alt="Schematic" width="500"/>
 
 
 
