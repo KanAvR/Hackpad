@@ -22,11 +22,12 @@ It has just one 3d printed piece, with a cutout at the top to easily slide the m
 
 ## PCB
 Made in KiCAD.
-
 Schematic
+
 <img src=assets/schematic.png alt="Schematic" width="300"/>
 
 PCB
+
 <img src=assets/pcb.png alt="Schematic" width="300"/>
 
 
