@@ -1,5 +1,5 @@
 # Hackpad
-
+<img src=assets/render.png alt="Schematic" width="500"/>
 Hackpad is a 9 key macropad with a rotary encoder, an OLED Display and uses KMK firmware.
 
 This will be used as a macropad for common desktop shortcuts such as, switching desktops; To boost productivity.
@@ -12,11 +12,11 @@ This will be used as a macropad for common desktop shortcuts such as, switching 
 - 9 Keys
 
 ## CAD Model:
-Made in Fusion.
-It has just one 3d printed piece, with a cutout at the top to easily slide the macropad in and out. It also features 4 screw holes which will be used to screw the macropad into my desk.
+Made in Blender.
+The model is made of two seprate parts that will be screwed togeather to make the case.
+
 
 <img src=assets/cad.png alt="Schematic" width="500"/>
-
 
 
 
