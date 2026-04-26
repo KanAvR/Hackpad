@@ -42,7 +42,7 @@ This hackpad uses KMK firmware.
 - The SK6812MINI LED glows blue normally and turns red when muted.
 
 ## BOM:
-| Name | Purpose | Qty | Total | Link | Distributor |
+| Name | Purpose | Qty | Price | Link | Distributor |
 |------|---------|-----|-------------|------|-------------|
 | 0.91 inch blue OLED display module | Volume display (I already have this) | 1 | $0.00 | [Link](https://robocraze.com/products/0-91-inch-blue-oled-display-module) | Robo Craze |
 | SK6812 MINI E RGB LED 3228 SMD Individually Addressable Full Color DC 5V (Pack of 100) | Mute status indicator (I already have this) | 1 | $0.00 | [Link](https://www.amazon.in/100PCS-Similar-WS2812B-Individually-Addressable/dp/B0DMNBBM9V) | Amazon |
