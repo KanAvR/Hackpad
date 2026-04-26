@@ -45,7 +45,7 @@ This hackpad uses KMK firmware.
 | Name | Purpose | Qty | Total | Link | Distributor |
 |------|---------|-----|-------------|------|-------------|
 | 0.91 inch blue OLED display module | Volume display (I already have this) | 1 | $0.00 | [Link](https://robocraze.com/products/0-91-inch-blue-oled-display-module) | Robo Craze |
-| SK6812 MINI E RGB LED 3228 SMD Individually Addressable Full Color DC 5V (Pack of 100) | Per key RGB lighting (I already have this) | 1 | $0.00 | [Link](https://www.amazon.in/100PCS-Similar-WS2812B-Individually-Addressable/dp/B0DMNBBM9V) | Amazon |
+| SK6812 MINI E RGB LED 3228 SMD Individually Addressable Full Color DC 5V (Pack of 100) | Mute status indicator (I already have this) | 1 | $0.00 | [Link](https://www.amazon.in/100PCS-Similar-WS2812B-Individually-Addressable/dp/B0DMNBBM9V) | Amazon |
 | 1N4148 Fast Switching Diodes, 100V 300mA, Pack of 100, DO 35 Glass Zener Diodes for Electronic Projects | Preventing Ghosting (quantity is 1 because it comes in packs of 100, I will use 9) (I already have this) | 1 | $0.00 | [Link](https://www.amazon.in/100-Pieces-1N4148-Switching-High-Speed/dp/B079KJ91JZ) | Amazon |
 | CentIoT EC11 10K Rotary Encoder Digital Potentiometer Coding Volume Control with switch 5 Pin 15mm Half handle (2PCS) | Volume knob (I already have this) | 1 | $0.00 | [Link](https://www.amazon.in/CentIoT-Encoder-Digital-Potentiometer-Control/dp/B0888RWNM1) | Amazon |
 | Seeed Studio XIAO RP2040 Development Board | Connecting the hackpad to my computer (I already have this) | 1 | $0.00 | [Link](https://robocraze.com/products/seeed-studio-xiao-rp2040-development-board) | Robo Craze |
